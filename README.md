@@ -35,7 +35,7 @@ Before you can run the project, ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone <https://github.com/rehabkhaleel/DBMSandSDA-SemesterProject/tree/main>
 cd <project_directory>
 ```
 
